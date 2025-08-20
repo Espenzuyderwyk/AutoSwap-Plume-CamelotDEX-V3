@@ -55,8 +55,8 @@ Maximize your engagement with the Plume ecosystem and boost your chances of earn
 
 This script is created for educational and personal experimentation purposes. It is not to be used for illegal activities, spam, or violations of GitHub rules.
 
-- Use of this script is entirely the responsibility of the user.
-- Do not use it to violate GitHub's Terms of Service.
+- Use of this script is entirely the responsibility of the user
+- Do not use it to violate GitHub's Terms of Service
 
 ## 🔖 Tags
 #plume #airdrop #swap #bot #crypto #web3 #automation #trading #pUSD #dex #stake 
